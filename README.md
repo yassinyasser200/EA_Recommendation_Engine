@@ -15,6 +15,18 @@
 - [UI Features](#ui-features)
 - [Results](#results)
 - [Tech Stack](#tech-stack)
+- [Team](#team)
+
+---
+
+## Team
+
+| Name | LinkedIn |
+|---|---|
+| Ahmad Al-Kordy | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadalkordy) |
+| Yassin Yasser | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassin-yasser1) |
+| Nour Hatem | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-hatem-) |
+| Mahmoud Hossam | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-hossam-090958351) |
 
 ---
 
